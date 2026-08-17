@@ -4,6 +4,10 @@ Proyecto académico desarrollado para Programación 1 en Universidad ORT Uruguay
 
 Aplicación web de comercio electrónico de artículos deportivos desarrollada con HTML, CSS y JavaScript. El sistema implementa dos tipos de usuario: comprador y administrador.
 
+## Live Demo
+
+[Open SportShop](https://c4mox.github.io/sportShop/)
+
 ## Funcionalidades
 
 ### Comprador
