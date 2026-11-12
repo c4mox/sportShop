@@ -1,59 +1,59 @@
-# SportShop - E-commerce deportivo
+# SportShop - Sports E-commerce
 
-Proyecto académico desarrollado para Programación 1 en Universidad ORT Uruguay.
+Academic project developed for Programming 1 at Universidad ORT Uruguay.
 
-Aplicación web de comercio electrónico de artículos deportivos desarrollada con HTML, CSS y JavaScript. El sistema implementa dos tipos de usuario: comprador y administrador.
+Sports equipment e-commerce web application built with HTML, CSS and JavaScript. The system supports two types of users: buyer and administrator.
 
 ## Live Demo
 
 [Open SportShop](https://c4mox.github.io/sportShop/)
 
-## Funcionalidades
+## Features
 
-### Comprador
-- Registro con validación de usuario, contraseña, tarjeta y CVC.
-- Inicio de sesión.
-- Visualización de productos disponibles.
-- Solicitud de compras.
-- Listado y filtrado de compras por estado.
-- Cancelación de compras pendientes.
-- Visualización y compra de productos en oferta.
-- Control de saldo ficticio.
+### Buyer
+- Registration with username, password, card and CVC validation.
+- Login.
+- Browsing of available products.
+- Purchase requests.
+- Listing and filtering of purchases by status.
+- Cancellation of pending purchases.
+- Browsing and purchase of products on sale.
+- Simulated account balance tracking.
 
-### Administrador
-- Inicio de sesión con usuarios precargados.
-- Listado y aprobación de compras.
-- Validación de saldo, stock y estado del producto al aprobar.
-- Creación de productos con imagen.
-- Administración de stock.
-- Activación y pausa de productos.
-- Asignación y eliminación de ofertas.
-- Informe de unidades vendidas por producto y ganancia total.
+### Administrator
+- Login with preloaded users.
+- Listing and approval of purchases.
+- Balance, stock and product status validation on approval.
+- Product creation with image.
+- Stock management.
+- Product activation and pausing.
+- Assignment and removal of discounts.
+- Report of units sold per product and total revenue.
 
-## Tecnologías
+## Technologies
 
 - HTML5
 - CSS3
 - JavaScript
-- Programación Orientada a Objetos
-- Manipulación del DOM
+- Object-Oriented Programming
+- DOM Manipulation
 
-## Ejecución
+## Running Locally
 
-No requiere servidor ni dependencias externas. Abrir `index.html` en un navegador moderno.
+No server or external dependencies required. Open `index.html` in a modern browser.
 
-## Usuarios de prueba
+## Demo Credentials
 
-Administrador:
-- Usuario: `camo`
-- Contraseña: `camo2024`
+Administrator:
+- Username: `camo`
+- Password: `camo2024`
 
-Comprador:
-- Usuario: `camoartola`
-- Contraseña: `Camo2025`
+Buyer:
+- Username: `camoartola`
+- Password: `Camo2025`
 
-El saldo inicial de cada comprador es de $3000 ficticios.
+Each buyer starts with a simulated balance of $3000.
 
-## Nota
+## Note
 
-Proyecto académico originalmente desarrollado en 2024 y posteriormente limpiado y actualizado para presentarlo como parte del portfolio personal.
+Academic project originally developed in 2024, later cleaned up and updated to be presented as part of my personal portfolio.
